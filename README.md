@@ -1,4 +1,4 @@
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
+#### HOW TO DEPLOY    ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
 
 
 
@@ -9,9 +9,9 @@
 <div align="center">
 <img src="life.jpg" alt="Pepe" width="170" />
 
-# Bosco Bot
+# Manu Bot
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Manu Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
@@ -29,9 +29,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/manu1486/Manu#requirements">Requirements</a> •
+  <a href="https://github.com/manu1486/Manu#simple method">Installation</a> •
+  <a href="https://github.com/manu1486/Manu#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -82,7 +82,7 @@ you can contact us
 # Thanks to
 * Denis ser
 * [`Kriz ser`](https://github.com/KANNANSIR)
-* [`Pepe sir`](https://github.com/pepesir)
+* [`Benison sir`](https://wa.me/qr/YEGHIQBJK7QCJ1)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 
 
