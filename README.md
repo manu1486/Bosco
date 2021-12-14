@@ -39,7 +39,7 @@
 ---
 
 
-## `ADD BUILDPACK`
+## `ADD BUILDPACKS`
 
 ```
 Heroku/nodejs
@@ -82,7 +82,8 @@ you can contact us
 # Thanks to
 * Denis ser
 * [`Kriz ser`](https://github.com/KANNANSIR)
-* [`Benison sir`](https://wa.me/qr/YEGHIQBJK7QCJ1)
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Benison`](https://wa.me/qr/YEGHIQBJK7QCJ1)
+[`Baileys`](https://github.com/adiwajshing/Baileys)
 
 
+  THANKS TO ALL FOR ALL YOUR SUPPORTS😍
